@@ -1,0 +1,17 @@
+---
+title:"Smnazir Rabun"
+---
+  
+<link rel="stylesheet" href="sttyle.css" type="text/css">
+  
+<img src="images/DP.png" style="width:20%; border:10px solid" align="centre">  
+  
+  
+  
+**Mohd Nazir Rabun**  
+**Lecturer**  
+**Faculty of Administrative Science & policy Studies**  
+**uiTM Kedah Branch, Sungai Petani Campus**  
+---
+  
+**BACKGROUND**
