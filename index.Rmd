@@ -6,12 +6,14 @@ title:"Smnazir Rabun"
   
 <img src="images/DP.png" style="width:20%; border:10px solid" align="centre">  
   
-  
+ ##General Information: {.tabset}
+ ###
   
 **Mohd Nazir Rabun**  
-**Lecturer**  
-**Faculty of Administrative Science & policy Studies**  
-**uiTM Kedah Branch, Sungai Petani Campus**  
+_Lecturer_  
+_Faculty of Administrative Science & Policy Studies_  
+**UiTM Kedah Branch, Sungai Petani Campus**  
 ---
   
-**BACKGROUND**
+**BACKGROUND**  
+I like to eat hamburger
